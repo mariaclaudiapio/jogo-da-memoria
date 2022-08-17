@@ -13,7 +13,7 @@ Na lógica de programação foram utilizados condicionais, Immediately Invoked F
 <h2 align="center">🔨 Funcionalidades do sistema</h2>   
 
 <p align="center">
- <img width="600" src="./imagens/jogo-memoria.gif">
+ <img width="60%" src="./imagens/jogo-memoria.gif">
 </p>
 
 
